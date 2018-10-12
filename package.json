@@ -1,0 +1,23 @@
+{
+  "name": "react-family-test",
+  "version": "1.0.0",
+  "description": "react-family, step by step",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yYohao/react-family-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yYohao/react-family-test/issues"
+  },
+  "homepage": "https://github.com/yYohao/react-family-test#readme",
+  "devDependencies": {
+    "webpack": "^3.12.0"
+  }
+}
